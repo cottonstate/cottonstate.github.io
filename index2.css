@@ -29,11 +29,14 @@ h1 {
     -webkit-text-fill-color: transparent;
     animation: bg 60s infinite;
 }
+h1>a:hover {
+    -webkit-text-fill-color:white;
+    text-decoration: underline;
+    }
 
 h2{
     font-weight:900;
 }
-
 
 
 ul {
@@ -123,5 +126,25 @@ a:hover{color:white;}
     top:40%;
     left:55%;
     color: white;
+}
+
+.white {
+    color: white;
+    position: absolute;
+    top:20%; 
+    left:45%;
+}
+
+.card {
+    margin-left: 50px;
+    margin-top:400px;
+    text-align: center;
+    float:left;
+}
+
+button {
+    border-radius: 20px ;
+    background-color: rgb(212, 219, 255);
+    padding: 0px 7px;
 }
 
