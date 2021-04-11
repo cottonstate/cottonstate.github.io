@@ -20,7 +20,7 @@ h1 {
     transform: translate(-50%,-50%);
     font-size: 25rem;
     font-weight: 800;
-    background: url(img/ocean.jpg);
+    background: url(image/ocean.jpg);
     background-position: top;
     background-clip: text;
     -webkit-background-clip: text;
@@ -72,7 +72,7 @@ a:hover{color:white;}
     top: 30%;
     right: 40%;
     float: left;
-    background: url(img/sky.jpg);
+    background: url(image/sky.jpg);
     background-position: center;
     background-clip: text;
     -webkit-background-clip: text;
@@ -87,7 +87,7 @@ a:hover{color:white;}
     top: 30%;
     right: 29%;
     float: left;
-    background: url(img/sky.jpg);
+    background: url(image/sky.jpg);
     background-position: center;
     background-clip: text;
     -webkit-background-clip: text;
@@ -102,7 +102,7 @@ a:hover{color:white;}
     top: 30%;
     right: 20%;
     float:left;
-    background: url(img/sky.jpg);
+    background: url(image/sky.jpg);
     background-position: center;
     background-clip: text;
     -webkit-background-clip: text;
