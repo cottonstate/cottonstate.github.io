@@ -20,7 +20,7 @@ h1 {
     transform: translate(-50%,-50%);
     font-size: 25rem;
     font-weight: 800;
-    background: url(./img/ocean.jpg);
+    background: url(img/ocean.jpg);
     background-position: top;
     background-clip: text;
     -webkit-background-clip: text;
