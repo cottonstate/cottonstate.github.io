@@ -11,12 +11,13 @@ body, html, header, h1 {
 
 section {
     background: radial-gradient(#0070d1, #002152);
+
 }
 
 h1 {
     position: absolute;
-    top: 5%;
-    left: 20%;
+    top: 15%;
+    left: 50%;
     transform: translate(-50%,-50%);
     font-size: 5rem;
     font-weight: 800;
@@ -33,9 +34,7 @@ h2{
     font-weight:900;
 }
 
-p {
-    text-align: center;
-}
+
 
 ul {
     list-style: none;
@@ -110,5 +109,19 @@ a:hover{color:white;}
     -webkit-text-fill-color: transparent;
     animation: bg 5s infinite;
     position: absolute;
+}
+
+.intro1 {
+    position: absolute;
+    top: 30%;
+    left:35%;
+    color: white;
+}
+
+.intro2 {
+    position: absolute;
+    top:40%;
+    left:55%;
+    color: white;
 }
 
