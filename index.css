@@ -70,7 +70,7 @@ a:hover{color:white;}
 .info {
     text-align: center;
     top: 30%;
-    right: 40%;
+    right: 40.5%;
     float: left;
     background: url(image/sky.jpg);
     background-position: center;
@@ -80,12 +80,14 @@ a:hover{color:white;}
     -webkit-text-fill-color: transparent;
     animation: bg 5s infinite;
     position: absolute;
+    border-right: white thin solid;
+    padding-right: 20px;
 }
 .work {
     text-align: center;
     position: absolute;
     top: 30%;
-    right: 29%;
+    right: 28%;
     float: left;
     background: url(image/sky.jpg);
     background-position: center;
@@ -95,12 +97,14 @@ a:hover{color:white;}
     -webkit-text-fill-color: transparent;
     animation: bg 5s infinite;
     position: absolute;
+    border-right: white thin solid;
+    padding-right: 20px;
 }
 .contact {
     text-align: center;
     position: absolute;
     top: 30%;
-    right: 20%;
+    right: 18%;
     float:left;
     background: url(image/sky.jpg);
     background-position: center;
@@ -111,4 +115,3 @@ a:hover{color:white;}
     animation: bg 5s infinite;
     position: absolute;
 }
-
